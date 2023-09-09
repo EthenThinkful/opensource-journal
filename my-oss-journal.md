@@ -54,3 +54,17 @@
 - **OpenSauced Highlight**: [Include a link, screenshot, or both if applicable]
   - YAY: ![first issue/pr](img/journal-day-2.PNG)
   - NAY: ![rejected SSL cert](img/error1.PNG)
+
+## Day 3
+
+- **Project**: Cloning and getting the api up and running locally 
+- **Description**: Follow steps to get it up and running and debug any errors that occur
+- **Tasks completed**: 
+  - Asked discord about where the API_DOMAIN is located in supabase
+  - Raised an issue about setting up SSL certificates
+  - Fixed issue on setting up SSL certificates (windows file path problem. Added "/" before the path to not access C directory)
+  
+- **Challenges faced**: 
+- Fixing SSL keys and cert command 
+- Installing psql to my command line 
+
