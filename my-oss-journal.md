@@ -68,3 +68,17 @@
 - Fixing SSL keys and cert command 
 - Installing psql to my command line 
 
+## Day 4
+
+- **Project**: Getting the Open Sauced api up and running locally (pt. 2) 
+- **Description**: setting project up locally
+- **Tasks completed**: 
+- successfully installed psql to all paths needed
+- raised issue describing a challenge I faced in the last step of project setup
+
+- **Challenges faced**: 
+-  could not migrate data into the database 
+
+
+
+
