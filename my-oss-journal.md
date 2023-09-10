@@ -79,6 +79,20 @@
 - **Challenges faced**: 
 -  could not migrate data into the database 
 
+## Day 5
+
+- **Project**: Migrating data into Open Sauced's local database
+- **Description**: manipulating scripts to achieve successful migrations
+- **Tasks completed**: 
+- Successfully migrated data into the database!
+- Closed issue
+
+- **Challenges faced**: 
+-  Manipulating the script to successfully migrate data. 
+
+- **OpenSauced Highlight**:
+Solution: ![solution](img/journal-day-5.PNG)
+
 
 
 
