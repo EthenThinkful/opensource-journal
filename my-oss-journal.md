@@ -93,6 +93,21 @@
 - **OpenSauced Highlight**:
 Solution: ![solution](img/journal-day-5.PNG)
 
+## Day 6
+
+- **Project**: Communicating with Senior Dev of Open Sauced
+- **Description**: Thoroughly communicate bugs in local setup
+- **Tasks completed**: 
+- Communicated thoroughly by responding to a thread of comments regarding local setup complications.
+- May be an OS problem (e.g. not having linux)
+- Viewed Docker logs for identifying issues
+- Successfully identified the issue in the Docker logs
+
+- **Challenges faced**: 
+-  Not knowing Docker in depth enough 
+
+- **OpenSauced Highlight**: Communication!
+
 
 
 
