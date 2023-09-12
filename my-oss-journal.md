@@ -108,6 +108,8 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - **OpenSauced Highlight**: Communication!
 
+## Day 7
 
+- Interview Project 
 
 
