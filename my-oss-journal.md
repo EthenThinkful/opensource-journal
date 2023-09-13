@@ -112,4 +112,8 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - Interview Project 
 
+## Day 8
+
+- Interview Project (cont.)
+
 
