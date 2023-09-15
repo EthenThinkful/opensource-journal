@@ -119,3 +119,7 @@ Solution: ![solution](img/journal-day-5.PNG)
 ## Day 9
 
 - Interview Project (cont.)
+
+## Day 10
+
+- Interview Project (cont.)
