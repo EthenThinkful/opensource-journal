@@ -127,3 +127,12 @@ Solution: ![solution](img/journal-day-5.PNG)
 ## Day 11
 
 - Interview Project (cont.)
+
+## Day 12
+
+- Interview Project (cont.)
+
+## Day 13
+
+- Interview Project (cont.)
+
