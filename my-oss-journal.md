@@ -136,3 +136,11 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - Interview Project (cont.)
 
+## Day 13
+
+- Interview Project (cont.)
+
+## Day 13
+**Project**: Installing WSL2 & Ubuntu for Open Sauced API development
+- Successfully installed Ubuntu
+- ready to re try process of setting up local dev!
