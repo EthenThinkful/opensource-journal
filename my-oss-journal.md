@@ -140,7 +140,17 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - Interview Project (cont.)
 
-## Day 13
+## Day 14
 **Project**: Installing WSL2 & Ubuntu for Open Sauced API development
 - Successfully installed Ubuntu
 - ready to re try process of setting up local dev!
+
+## Day 15
+- **Project**: Successfully set up Open Sauced API locally
+- **Tasks completed**:
+  - Successfully set up API locally
+- **Challenges faced**: 
+    - password authentication for connecting to the psql container in Docker
+
+- **Resources used**: 
+    - 100Devs help from experienced Docker dev
