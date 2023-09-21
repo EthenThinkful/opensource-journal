@@ -154,3 +154,14 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - **Resources used**: 
     - 100Devs help from experienced Docker dev
+
+## Day 16
+- **Project**: Run Open Sauced frontend locally and search for bugs/features
+- **Tasks completed**:
+  - Got familiar with the frontend a bit
+  - Raised my first feature request in this repository!
+- **Challenges faced**: 
+    - Understanding Open Sauced's .env files
+
+- **Resources used**: 
+    - Open Sauced contributor's chat
