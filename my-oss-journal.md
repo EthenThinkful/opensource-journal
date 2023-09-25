@@ -165,3 +165,18 @@ Solution: ![solution](img/journal-day-5.PNG)
 
 - **Resources used**: 
     - Open Sauced contributor's chat
+
+## Day 17
+- **Project**: Poke Booklets with Felipe
+- **Tasks completed**:
+  - Collaborated with felipe on finishing poke booklets
+
+## Day 18
+- **Project**: Poke Booklets with Felipe
+- **Tasks completed**:
+  - Collaborated with felipe on finishing poke booklets
+
+## Day 19
+- **Project**: Poke Booklets with Felipe
+- **Tasks completed**:
+  - Collaborated with felipe on finishing poke booklets
