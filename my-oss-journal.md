@@ -180,3 +180,11 @@ Solution: ![solution](img/journal-day-5.PNG)
 - **Project**: Poke Booklets with Felipe
 - **Tasks completed**:
   - Collaborated with felipe on finishing poke booklets
+
+## Day 20
+- **Project**: Random Open Source Ventures & Project Work
+- **Tasks completed**:
+  - Analyzed an issue with a button overflow on Open Sauced's frontend with Felipe and realized the persion who submitted a PR & closed the issue wasn't reflecting on the live site. We concluded that maybe this is because they've had a delay from the approver to update the live site.
+  - Completed a multitude of features on poke booklets - most productive day yet collaborating with Felipe.
+  - Someone assigned themselves the issue I raised on Open Sauced's frontend.
+  - Geared up for tomorrow's goals with Felipe regarding code work.
