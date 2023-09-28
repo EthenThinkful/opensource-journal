@@ -188,3 +188,16 @@ Solution: ![solution](img/journal-day-5.PNG)
   - Completed a multitude of features on poke booklets - most productive day yet collaborating with Felipe.
   - Someone assigned themselves the issue I raised on Open Sauced's frontend.
   - Geared up for tomorrow's goals with Felipe regarding code work.
+
+  ## Day 21
+- **Project**: Scanning OSS for bugs
+- **Tasks completed**: 
+  - Found a bug in the 100Devs group project for web dev cody's hackathon that was causing text to be typed out backwards.
+  - Raised an issue and let a lead developer know about it. The issue was resolved and closed and I was thanked for raising it.
+  - Collaborated on schedule with Felipe for integrating some goal features for the pokemon app.
+
+  ## Day 22
+- **Project**: Closing in on development deadlines before hackathon
+- **Tasks completed**: 
+  - All coding attention was on executing dev goals for the Poke Booklet app.
+  - Outline for completion was made and goal is to have a working final model done by start of next week.
